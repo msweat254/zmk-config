@@ -59,7 +59,3 @@
 &led_strip {
         chain-length = <27>;
 };
-
-&display {
-        /delete-property/ power-supply;
-};
